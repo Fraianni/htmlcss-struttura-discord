@@ -60,5 +60,15 @@ header {
     color: wheat;
     justify-content: space-around;
     height: 200px;
-    border-bottom: 1px solid lightgray;
+}
+
+hr {
+    color: gray;
+    margin: 0px 100px;
+}
+
+.block2 {
+    color: wheat;
+    justify-content: space-around;
+    padding: 50px 0px;
 }
