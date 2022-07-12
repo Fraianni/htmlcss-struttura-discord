@@ -14,7 +14,6 @@ body {
 
 .height {
     height: 400px;
-    border: 1px solid black;
 }
 
 footer {
@@ -36,20 +35,20 @@ header {
 
 }
 
-.content {
+.flex.header_content {
     height: 200px;
     justify-content: center;
     align-items: center;
 }
 
+
 .section_content {
     justify-content: space-around;
     align-items: center;
-    padding: 0px 400px;
 }
 
 .even {
-    background-color: silver;
+    background-color: #f6f6f6;
 }
 
 .last_section {
